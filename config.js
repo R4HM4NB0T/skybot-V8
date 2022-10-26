@@ -1,6 +1,6 @@
 /* 
-* Sc Recoder By Arifzyn
-* Yang Hapus Anak Yteam
+* Sc Recoder By Rahman
+* Yang Hapus Tidak baik
 */
 
 import { watchFile, unwatchFile } from 'fs'
@@ -32,16 +32,16 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 /*Oᴡɴᴇʀ number*/
 global.owner = [
-  ['62895347198105', '️Oᴡɴᴇʀ One', true],
-  ['62895347198105', '️Oᴡɴᴇʀ Two', true],
-  ['62895347198105', '️Oᴡɴᴇʀ Three', true],
-  ['62895347198105', '️Oᴡɴᴇʀ Four', true],
-  ['62895347198105', '️Oᴡɴᴇʀ Five', true],
-  ['62895347198105', '️Oᴡɴᴇʀ Six', true],
-  ['62895347198105', '️Oᴡɴᴇʀ Seven', true],
-  ['6282195322106', '️Oᴡɴᴇʀ Eight', true],
-  ['62895333039080', '️Oᴡɴᴇʀ Nine', true],
-  ['6285891310357', '️Oᴡɴᴇʀ Teen', true]
+  ['6281298108109', '️Oᴡɴᴇʀ One', true],
+  ['6281298108109', '️Oᴡɴᴇʀ Two', true],
+  ['6281298108109', '️Oᴡɴᴇʀ Three', true],
+  ['6281298108109', '️Oᴡɴᴇʀ Four', true],
+  ['6281298108109', '️Oᴡɴᴇʀ Five', true],
+  ['6281298108109', '️Oᴡɴᴇʀ Six', true],
+  ['6281298108109', '️Oᴡɴᴇʀ Seven', true],
+  ['6283149633165', '️Oᴡɴᴇʀ Eight', true],
+  ['6285974169278', '️Oᴡɴᴇʀ Nine', true],
+  ['6283847174069⁩', '️Oᴡɴᴇʀ Teen', true]
 ]
 global.mods = []
 global.prems = []
@@ -103,18 +103,18 @@ global.xteamkey = 'NezukoTachibana281207'
 */
 
 /*Number*/
-global.nomorbot = '6289636219593'
-global.nomorown = '62895347198105' 
-global.namebot = '𝐒𝐤𝐲𝐁𝗼𝐭-𝐌𝐝'
-global.nameown = '「 Oᴡɴᴇʀ 」'
+global.nomorbot = '6283847174069⁩'
+global.nomorown = '6281298108109' 
+global.namebot = '𝕄𝕒𝕟𝕫𝔹𝕠𝕥-𝕍𝟙'
+global.nameown = '「 ʀᴀʜᴍᴀɴᴏꜰꜰɪᴄɪᴀʟ 」'
 
 /*Watermark*/
-global.wm = '❖ 𝐒𝐤𝐲𝐁𝗼𝐭 | 𝐁𝐲 𝐀𝐫𝐢𝐟𝐳𝐲𝐧 ❖'
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘օառɛʀ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ 𝐒𝐤𝐲𝐁𝗼𝐭𝐳𝐌𝐃'
+global.wm = '❖ 𝕄𝕒𝕟𝕫𝔹𝕠𝕥-𝕍𝟙 | 𝔹𝕪 ℝ𝕒𝕙𝕞𝕒𝕟𝕆𝕗𝕗𝕚𝕔𝕚𝕒𝕝 ❖'
+global.wm2 = '꒷︶꒷꒥꒷ ‧ʀᴀʜᴍᴀɴᴏꜰꜰɪᴄɪᴀʟ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ 𝕄𝕒𝕟𝕫𝔹𝕠𝕥-𝕍𝟙'
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By 𝐀𝐫𝐢𝐟𝐳𝐲𝐧`
+global.titlebot = `⫹⫺ WhatsApp Bot | 𝔹𝕪 ℝ𝕒𝕙𝕞𝕒𝕟𝕆𝕗𝕗𝕚𝕔𝕚𝕒𝕝`
 
 /*Thumbnail*/
 global.thumbnail = 'https://telegra.ph/file/45f85f3728cd712fa603b.jpg'
@@ -473,13 +473,13 @@ global.dana = ['0895347198105']
 global.pulsa = ['089636219593']
 global.trakteer = 'https://trakteer.id/wudysoft'
 global.paypal = 'wudysoft@mail.com'
-global.gopay = '089636219593'
-global.pdana = '0895347198105'
-global.povo = '0895347198105'
-global.pgopay = '089636219593'
-global.ppulsa = '089636219593'
-global.ppulsa2 = '0895347198105'
-global.psaweria = 'https://saweria.com/arifzyn'
+global.gopay = '-'
+global.pdana = '081298108109'
+global.povo = '-'
+global.pgopay = '-'
+global.ppulsa = '081298108109'
+global.ppulsa2 = '085974169278'
+global.psaweria = '-'
 
 /*Emoji*/
 global.rpg = {
